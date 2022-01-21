@@ -96,10 +96,6 @@ const MySkillsPage = () => {
             <strong>API</strong>
             <ul>
               <li>SFML</li>
-              <li>
-                Apart from studies, I'm also learning and building games in
-                Unity.
-              </li>
             </ul>
           </Description>
           <Description>
@@ -107,6 +103,9 @@ const MySkillsPage = () => {
             <ul>
               <li>VScode, Visual Studio etc.</li>
             </ul>
+            <li>
+              Apart from studies, I'm also learning and building games in Unity.
+            </li>
           </Description>
         </Main>
         <Main>
