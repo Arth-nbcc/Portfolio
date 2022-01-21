@@ -117,7 +117,7 @@ const MySkillsPage = () => {
             <Develope width={40} height={40} /> Back-end Developer
           </Title>
           <Description>
-            I love to build structure of a software application using problem
+            I enjoy building structure of a software application using problem
             solving skills.
           </Description>
           <Description>
