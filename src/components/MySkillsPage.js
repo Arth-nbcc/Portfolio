@@ -104,7 +104,10 @@ const MySkillsPage = () => {
               <li>VScode, Visual Studio etc.</li>
             </ul>
             <ul>
-              Apart from studies, I'm also learning and building games in Unity.
+              <li>
+                Apart from studies, I'm also learning and building games in
+                Unity.
+              </li>
             </ul>
           </Description>
         </Main>
