@@ -103,6 +103,7 @@ const MySkillsPage = () => {
             <ul>
               <li>VScode, Visual Studio etc.</li>
             </ul>
+            <br />
             <ul>
               <li>
                 Apart from studies, I'm also learning and building games in
@@ -121,11 +122,15 @@ const MySkillsPage = () => {
           </Description>
           <Description>
             <strong>Skills</strong>
-            <p>C#, ASP.NET</p>
+            <ul>
+              <li>C#, ASP.NET</li>
+            </ul>
           </Description>
           <Description>
             <strong>Tools</strong>
-            <p>VScode, Visual Studio etc.</p>
+            <ul>
+              <li>VScode, Visual Studio etc.</li>
+            </ul>
           </Description>
         </Main>
 
