@@ -123,7 +123,8 @@ const MySkillsPage = () => {
           <Description>
             <strong>Skills</strong>
             <ul>
-              <li>C#, ASP.NET</li>
+              <li>C#</li>
+              <li>ASP.NET</li>
             </ul>
           </Description>
           <Description>
