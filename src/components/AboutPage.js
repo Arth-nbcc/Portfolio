@@ -74,12 +74,12 @@ const AboutPage = () => {
                     I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
                 </Main> */}
         <Main>
-          I am a Game Developer from India, currently studying in Canada. I love
-          to develop 2D Graphical games with animations that are enjoyable and
-          fun.
+          I am from India, currently studying in Canada. I love to develop 2D
+          Graphical games with animations that are enjoyable and fun. I also
+          Like to Develop software applications.
           <br /> <br />
-          I am always interested in learning new things in game programming and
-          design.
+          I am always interested in learning new things in game programming,
+          game design and Software programming.
           <br /> <br />
           I have built some projects under the guidance of my professors and
           also individually.
